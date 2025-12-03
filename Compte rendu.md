@@ -1,7 +1,7 @@
 ## HAMDOUNE Oumaima
 ## Apogée 24010431
 
-# **📄 Rapport Scientifique : Analyse des Préférences d’Investissement**
+#  Rapport Scientifique : Analyse des Préférences d’Investissement**
 
 ## **1. Introduction**
 
