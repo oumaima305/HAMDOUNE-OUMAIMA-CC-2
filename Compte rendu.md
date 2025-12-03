@@ -1,13 +1,13 @@
 ## HAMDOUNE Oumaima
 ## Apogée 24010431
 
-#  Rapport Scientifique : Analyse des Préférences d’Investissement**
+# Analyse des Préférences d’Investissement
 
-## **1. Introduction**
+## 1. Introduction
 
 Dans un contexte où les institutions financières cherchent à mieux comprendre leurs clients, analyser les facteurs influençant les décisions d’investissement devient essentiel. Les individus basent leurs choix sur un ensemble de critères tels que l’âge, le sexe, leurs attentes financières et les raisons qui motivent leur préférence (sécurité, rentabilité, horizon, aversion au risque, etc.).
 
-**Problématique :**
+## Problématique :
 *Comment les caractéristiques individuelles (démographiques, attentes, motivations) influencent-elles les choix d’investissement et les objectifs d’épargne des personnes ?*
 
 **Objectifs :**
